@@ -1,4 +1,4 @@
-### <div align="left" style="font-size: 36px;">Hi! 👋 My name is Anreet Kaur</div>
+### <h1 align="left" style="font-size: 36px;">Hi! 👋 My name is Anreet Kaur</h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
