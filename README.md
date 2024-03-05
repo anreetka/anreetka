@@ -4,6 +4,8 @@
 
 ### Let's explore more about me! :)
 
+- 🤖 I’m a second-year computer science student and an aspiring software developer
+
 - 🔭 I’m currently working on creating a [real time chat app using Socket.IO](https://github.com/anreetka/Real-Time-Chat-App)
 
 - 🌱 I’m currently learning C++, Data Structure & Algorithms and Tensorflow
