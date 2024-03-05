@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDridiAsma&psig=AOvVaw0wS3IN3nn3YAKl8XOQsZVs&ust=1709746055705000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOi1vsTS3YQDFQAAAAAdAAAAABAi" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" align="center" style="width: 100%" />
 </div>  
   
 
@@ -120,5 +120,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
