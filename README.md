@@ -1,8 +1,8 @@
-## <h1 align="left">Hi! 👋 My name is Anreet Kaur</h1>
+<h1 align="left">Hi! 👋 My name is Anreet Kaur</h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-## Let's explore more about me! :)
+Let's explore more about me! :)
 
 - 🔭 I’m currently working on creating a [real time chat app using Socket.IO](https://github.com/anreetka/Real-Time-Chat-App)
 
