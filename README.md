@@ -1,4 +1,4 @@
-### <div align="center">Hi! 👋 My name is Anreet Kaur. I'm a 2nd Year Computer Science Student and an aspiring software developer.<br/>Let's explore more about me!:)</div>  
+### <div align="center">Hi! 👋 My name is Anreet Kaur, 2nd Year CS Student. Let's explore more about me!:)</div>  
   
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
  
