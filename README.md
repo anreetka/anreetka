@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on creating a [real time chat app using Socket.IO](https://github.com/anreetka/Real-Time-Chat-App)
 
-- 🌱 I’m currently learning C++, Data Structure & Algorithms and Tensorflow
+- 🌱 I’m currently exploring C++, Data Structure & Algorithms, Tensorflow and some mobile development technologies
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
