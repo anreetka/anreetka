@@ -6,7 +6,7 @@
 
 - 🤖 I’m a second-year computer science student and an aspiring software developer
 
-- 🔭 I’m currently working on creating a [real time chat app using Socket.IO](https://github.com/anreetka/Real-Time-Chat-App)
+- 🔭 I’m currently working on learning how to create chrome extensions using TypeScript and JavaScript :)
 
 - 🌱 I’m currently exploring C++, Data Structure & Algorithms, Tensorflow and some mobile development technologies
 
