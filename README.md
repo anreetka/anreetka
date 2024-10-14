@@ -4,7 +4,7 @@
 
 ### Let's explore more about me! :)
 
-- 🤖 I’m a second-year computer science student and an aspiring software developer
+- 🤖 I’m a third-year computer science student and an aspiring software developer
 
 - 🔭 I’m currently working on learning how to create chrome extensions using TypeScript and JavaScript :)
 
